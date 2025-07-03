@@ -1,0 +1,1 @@
+A simple machine learning project that classifies Iris flowers into Setosa, Versicolor, or Virginica using petal and sepal measurements. Built with Python and scikit-learn, using a custom iris.csv dataset. Dataset:https://www.kaggle.com/datasets/saurabh00007/iriscsv
